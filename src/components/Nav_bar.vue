@@ -15,7 +15,7 @@ export default {
         { text: "ToDo", icon: "assignment_turned_in", route: "/" },
         { text: "Add", icon: "add_box", route: "/add" },
         { text: "Profile", icon: "person", route: "/profile" },
-        { text: "Settings", icon: "settings", route: "/settings" },
+        { text: "Settings", icon: "settings", route: "/login" },
       ]
     };
   }
